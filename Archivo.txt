@@ -1,0 +1,7 @@
+Duración de un día en segundos:2
+Cantidad de días entre despachos:12
+Botones (cantidad máxima almacen, cantidad inicial de productores, cantidad máxima de productores):60,1,4
+Brazos (cantidad máxima almacen, cantidad inicial de productores, cantidad máxima de productores):40,1,5
+Piernas (cantidad máxima almacen, cantidad inicial de productores, cantidad máxima de productores):36,1,4
+Cuerpo (cantidad máxima almacen, cantidad inicial de productores, cantidad máxima de productores):15,1,4
+Ensambladores (cantidad inicial, cantidad máxima):1,5
